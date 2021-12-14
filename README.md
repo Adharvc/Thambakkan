@@ -1,2 +1,2 @@
 # Thambakkan
-all about coding
+all about coding and developing
